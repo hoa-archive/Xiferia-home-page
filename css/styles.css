@@ -1,0 +1,37 @@
+h1 {
+	font-size: 5rem;
+	border: 1px solid;
+	width: 50%;
+	margin: 25px auto 25px;
+	text-align: center;
+}
+
+.nav-tabs {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.icon-bar {
+	border: 1px solid;
+	max-height: 200px;
+}
+
+.main-content {
+	border: 1px solid;
+}
+
+.news-feed {
+	border: 1px solid;
+	max-height: 200px;
+}
+
+.socials {
+	text-decoration: none;
+}
+
+footer {
+	padding: 5% 0;
+	background-color: cadetblue;
+	text-align: center;
+	margin: 100px 0 0;
+}
